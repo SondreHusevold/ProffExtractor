@@ -1,5 +1,9 @@
 # ProffExtractor
 
+### DISCLAIMER: This script is made purely for educational purposes and you are solemnly responsible for your use of this python script.
+
+Warning: Systematically copying information from Proff.no is not allowed according to Norwegian copyright law unless you have written permission from Proff A/S. Use at your own risk.
+
 Introduction
 ------------
 
@@ -30,8 +34,3 @@ Breakage:
 Changes to Proff.no or Brønnøysundregisteret might break the script and it would need to be changed to work again.
 
 I am not updating this script. Thus you are on your own if the script breaks.
-
-
-## DISCLAIMER: This script is made purely for educational purposes and you are solemnly responsible for your use of this python script.
-
-Warning: Systematically copying information from Proff.no is not allowed according to Norwegian copyright law unless you have written permission from Proff A/S. Use at your own risk.
