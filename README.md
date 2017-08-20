@@ -22,6 +22,7 @@ Instructions:
 -------------
 
 Example usage:
+
 `python2.7 ProffExtractor.py --c STATKRAFT_ENERGI_AS`
 
 `python2.7 ProffExtractor.py --c ADECCO`
