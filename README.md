@@ -23,7 +23,9 @@ Instructions:
 
 Example usage:
 `python2.7 ProffExtractor.py --c STATKRAFT_ENERGI_AS`
+
 `python2.7 ProffExtractor.py --c ADECCO`
+
 `python2.7 ProffExtractor.py --c coca_cola`
 
 The company name is how it is written at Brønnøysundregisteret. Spaces needs to be underscores. Take a look at their API for further information.
