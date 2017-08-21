@@ -25,11 +25,11 @@ Instructions:
 
 Example usage:
 
-`python2.7 ProffExtractor.py --c STATKRAFT_ENERGI_AS`
+`python ProffExtractor.py --c STATKRAFT_ENERGI_AS`
 
-`python2.7 ProffExtractor.py --c ADECCO`
+`python ProffExtractor.py --c ADECCO`
 
-`python2.7 ProffExtractor.py --c coca_cola`
+`python ProffExtractor.py --c coca_cola`
 
 Can be combined with >> to add it to a text file for example. If you have a list of companies, using a for loop in Bash or Powershell would suffice.
 
@@ -38,6 +38,8 @@ Can be combined with >> to add it to a text file for example. If you have a list
 * It does not need to be the complete name of the company. Thus "coca_cola" would suffice for the Coca-Cola Company. 
 
 Take a look at Brønnøysundregisteret's API for further information. 
+
+**Note: This script uses Python2. Python3 might require changes to the script.**
 
 Breakage:
 ------------
